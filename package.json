@@ -1,6 +1,6 @@
 {
-  "name": "hexo-generator-index",
-  "version": "2.0.0",
+  "name": "hexo-generator-index-tilden",
+  "version": "2.0.1",
   "description": "Index generator for Hexo.",
   "main": "index",
   "scripts": {
@@ -26,7 +26,7 @@
     "index",
     "home"
   ],
-  "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
+  "author": "TDJ",
   "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
@@ -37,6 +37,6 @@
     "nyc": "^15.0.0"
   },
   "dependencies": {
-    "hexo-pagination": "1.0.0"
+    "hexo-pagination-tilden": "1.0.0"
   }
 }
